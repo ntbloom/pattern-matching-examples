@@ -27,3 +27,25 @@ if __name__ == "__main__":
         show_number(res, num)
     for others in [-9, -10, 5, {"hello": "world"},3.14, "hello world"]:
         show_number(others,num)
+
+# Results!
+'''
+10 is the same as 10
+11 is a little bigger than 10
+12 is a little bigger than 10
+13 is a little bigger than 10
+14 is bigger than 10
+15 is bigger than 10
+16 is bigger than 10
+17 is bigger than 10
+18 is bigger than 10
+19 is bigger than 10
+20 is twice the size of 10
+21 is bigger than 10
+-9 is negative
+-10 is negative
+5 is less than 10
+{'hello': 'world'} is a type `dict`
+3.14 is a float
+`hello world` is a string
+'''
