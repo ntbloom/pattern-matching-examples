@@ -34,7 +34,7 @@ if __name__ == "__main__":
 """
 Hello John
 Bonjour Jean
-Hola, Juan
+Hola Juan
 Buongiorno Giovanni
 Guten Tag Johann
 Michael is not a version of John

@@ -29,7 +29,7 @@ if __name__ == "__main__":
         show_number(others,num)
 
 # Results!
-'''
+"""
 10 is the same as 10
 11 is a little bigger than 10
 12 is a little bigger than 10
@@ -48,4 +48,4 @@ if __name__ == "__main__":
 {'hello': 'world'} is a type `dict`
 3.14 is a float
 `hello world` is a string
-'''
+"""
